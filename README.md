@@ -9,7 +9,7 @@ that could be customized and deployed at scale to any number of themed Twitter a
 the weekend, marking the first new programming language I learned of my own initiative. 
 
 In 2018, as part of CS Sail, a new student recruitment initative by the UIUC CS Department, I reconfigured my initial project into Sail-bot and presented it
-to prospective students. Along with the presentation was a live coding demonstation, showing atendees what could be accomplished with only a single semester
+to prospective students. Along with the presentation was a live coding demonstation, showing attendees what could be accomplished with only a single semester
 of CS education at Illinois. 
 
 Today, Sail-bot is unfortunately no longer actively maintained. The code remains in my GitHub repository as a reminder of where I started, and a testament to legacy
