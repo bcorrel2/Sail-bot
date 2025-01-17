@@ -1,4 +1,6 @@
-# Sail-Bot
+# Sail-bot
+
+### My Story 
 
 In 2016, as a Freshman at the University of Illinois Urbana-Champaign, I had the pleasure of attending the annual HackIllinois programming competition. 
 Having just completed my foundational programming course, with no real skills to speak of, I set out to create a project I could present at the conclusion
